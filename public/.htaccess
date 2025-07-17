@@ -1,0 +1,3 @@
+# Arahkan semua error 404 ke file khusus
+ErrorDocument 404 /404.php
+

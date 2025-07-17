@@ -1,0 +1,11 @@
+{
+    "require": {
+        "illuminate/database": "^12.19",
+        "ezyang/htmlpurifier": "^4.18",
+        "illuminate/validation": "^12.19",
+        "illuminate/translation": "^12.19",
+        "phpseclib/phpseclib": "^3.0",
+        "mpdf/mpdf": "^8.2",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
