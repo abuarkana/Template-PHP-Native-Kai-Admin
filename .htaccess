@@ -1,0 +1,10 @@
+<!-- Kode berikut untuk settingan hosting -->
+<!-- <IfModule mod_rewrite.c> -->
+    # RewriteEngine On
+
+    # Jangan rewrite jika sudah di folder public
+    RewriteCond %{REQUEST_URI} !^/public/
+
+    # Rewrite ke folder public
+    RewriteRule ^(.*)$ public/$1 [L]
+<!-- </IfModule> -->

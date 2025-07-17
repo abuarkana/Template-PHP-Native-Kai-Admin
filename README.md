@@ -13,7 +13,7 @@ Template ringan untuk memulai proyek **PHP Native** menggunakan **KaiAdmin** seb
 
 ## 📦 Cara Penggunaan
 1.  Jalankan perintah berikut di terminal:
-    php -S localhost:8000
+    php -S localhost:8000 t- public
 
 2.  Buka browser dan akses:
     http://localhost:8000
