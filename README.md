@@ -16,7 +16,7 @@ Template ringan untuk memulai proyek **PHP Native** menggunakan **KaiAdmin** seb
 <<<<<<< HEAD
     php -S localhost:8000 -t public
 =======
-    php -S localhost:8000 t- public
+    php -S localhost:8000 -t public
 >>>>>>> a0f8830 (First Commit)
 
 2.  Buka browser dan akses:
